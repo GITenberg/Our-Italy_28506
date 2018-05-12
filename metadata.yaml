@@ -1,0 +1,40 @@
+_repo: Our-Italy_28506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: 'Famed essayist and journalist Charles Dudley Warner (1829-1900) was
+  the editor of the Hartford, Connecticut, Courant and a contributing editor to Harper''s
+  Magazine. Our Italy (1891) is Warner''s account of a trip he made to Southern California
+  in 1890. He describes conditions after the collapse of the 1886-1887 real estate
+  boom and dubs the state south of the Sierra Madres "our Italy." He focuses on the
+  region''s economic future: its promise as a healthy, productive residence, agricultural
+  developments (particularly the citrus industry), climate and industry. He devotes
+  less attention to beauty spots and tourist attractions, but he does discuss the
+  Grand Canyon, Yosemite, and Monterey.'
+gutenberg_issued: '2009-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28506'
+  lccn: rc01000915
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business -- California'
+- !lcsh 'Agriculture -- California'
+- !lcsh 'Real estate development -- California'
+- !lcc 'F850.5'
+- !lcsh 'California, Southern -- Description and travel'
+- !lcsh 'Urbanization -- California'
+title: Our Italy
+url: http://www.gutenberg.org/ebooks/28506
